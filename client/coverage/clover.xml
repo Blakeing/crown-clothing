@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1572552900937" clover="3.2.0">
+  <project timestamp="1572552900938" name="All files">
+    <metrics statements="137" coveredstatements="117" conditionals="10" coveredconditionals="8" methods="49" coveredmethods="25" elements="196" coveredelements="150" complexity="0" loc="137" ncloc="137" packages="16" files="24" classes="24"/>
+    <package name="components.cart-dropdown">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="cart-dropdown.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/cart-dropdown/cart-dropdown.component.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="22" count="12" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+      </file>
+      <file name="cart-dropdown.styles.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/cart-dropdown/cart-dropdown.styles.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.cart-icon">
+      <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="cart-icon.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/cart-icon/cart-icon.component.js">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+      <file name="cart-icon.styles.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/cart-icon/cart-icon.styles.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.checkout-item">
+      <metrics statements="17" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="4"/>
+      <file name="checkout-item.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/checkout-item/checkout-item.component.js">
+        <metrics statements="10" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="4"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+      </file>
+      <file name="checkout-item.styles.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/checkout-item/checkout-item.styles.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.collection-item">
+      <metrics statements="18" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="2"/>
+      <file name="collection-item.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/collection-item/collection-item.component.js">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+      </file>
+      <file name="collection-item.styles.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/collection-item/collection-item.styles.js">
+        <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="58" count="5" type="stmt"/>
+        <line num="60" count="5" type="stmt"/>
+        <line num="68" count="5" type="stmt"/>
+        <line num="70" count="5" type="stmt"/>
+        <line num="75" count="5" type="stmt"/>
+        <line num="77" count="5" type="stmt"/>
+        <line num="82" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.collection-preview">
+      <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <file name="collection-preview.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/collection-preview/collection-preview.component.js">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+      </file>
+      <file name="collection-preview.styles.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/collection-preview/collection-preview.styles.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.collections-overview">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="collections-overview.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/collections-overview/collections-overview.component.js">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.custom-button">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="custom-button.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/custom-button/custom-button.component.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.directory">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="directory.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/directory/directory.component.js">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.form-input">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="form-input.styles.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/form-input/form-input.styles.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.header">
+      <metrics statements="10" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="1"/>
+      <file name="header.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/header/header.component.js">
+        <metrics statements="5" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="1"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="8" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+      </file>
+      <file name="header.styles.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/header/header.styles.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.menu-item">
+      <metrics statements="12" coveredstatements="10" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <file name="menu-item.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/menu-item/menu-item.component.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+      <file name="menu-item.styles.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/components/menu-item/menu-item.styles.js">
+        <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.checkout">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="checkout.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/pages/checkout/checkout.component.js">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.collection">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="collection.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/pages/collection/collection.component.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+      <file name="collection.styles.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/pages/collection/collection.styles.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.shop">
+      <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+      <file name="shop.component.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/pages/shop/shop.component.js">
+        <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="saga-testing.utils.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/redux/saga-testing.utils.js">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux.directory">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="directory.reducer.js" path="/Users/blakeingenthron/Sites/crown-clothing/client/src/redux/directory/directory.reducer.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="38" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="39" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
